@@ -1,0 +1,76 @@
+body{
+margin-left: 5%;
+margin-right: 5%;
+background-image: url(novo.jpg);
+background-size: cover;
+}
+
+h1{
+display: flex;
+justify-content: center;
+}
+
+p{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h3{
+ display: flex;
+ justify-content: center;   
+}
+
+.n{
+    font-weight: bold;
+}
+
+.e{
+    font-weight: bold;
+}
+
+.g{
+    font-weight: bold;
+}
+
+.r{
+    font-weight: bold;
+}
+
+.i{
+    font-weight: bold;
+}
+
+.t{
+    font-weight: bold;
+}
+
+.o{
+    font-weight: bold;
+}
+
+.n1{
+    font-weight: bold;
+}
+
+.n2{
+    font-weight: bold;
+}
+
+.n3{
+    font-weight: bold;
+}
+
+.seguranca{
+    
+}
+
+.tratos{
+
+}
+
+.saude{
+
+}
+
+.ambiente{
+    background-image: linear-gradient(to button, #fffdff, #4d3147 );
+}

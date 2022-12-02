@@ -8,6 +8,7 @@ background-size: cover;
 h1{
 display: flex;
 justify-content: center;
+text-decoration: underline;
 }
 
 p{
@@ -60,17 +61,24 @@ h3{
 }
 
 .seguranca{
-    
+   
 }
 
 .tratos{
-
+    
 }
 
 .saude{
-
+    
 }
 
 .ambiente{
-    background-image: linear-gradient(to button, #fffdff, #4d3147 );
+ 
 }
+
+button{
+    padding: 10px;
+    border-radius:  200px;
+    background-color: rgb(95, 82, 167);
+}
+
